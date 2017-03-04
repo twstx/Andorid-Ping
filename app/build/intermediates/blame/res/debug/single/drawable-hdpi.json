@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/rick/workspace/work/ping/PING测试1/app/build/intermediates/res/merged/debug/drawable-hdpi/bg_key_normal.png",
+        "source": "/home/rick/workspace/work/ping/PING测试1/app/src/main/res/drawable-hdpi/bg_key_normal.png"
+    },
+    {
+        "merged": "/home/rick/workspace/work/ping/PING测试1/app/build/intermediates/res/merged/debug/drawable-hdpi/internet.png",
+        "source": "/home/rick/workspace/work/ping/PING测试1/app/src/main/res/drawable-hdpi/internet.png"
+    },
+    {
+        "merged": "/home/rick/workspace/work/ping/PING测试1/app/build/intermediates/res/merged/debug/drawable-hdpi/bg_key_pressed.png",
+        "source": "/home/rick/workspace/work/ping/PING测试1/app/src/main/res/drawable-hdpi/bg_key_pressed.png"
+    },
+    {
+        "merged": "/home/rick/workspace/work/ping/PING测试1/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_bg2.png",
+        "source": "/home/rick/workspace/work/ping/PING测试1/app/src/main/res/drawable-hdpi/btn_bg2.png"
+    },
+    {
+        "merged": "/home/rick/workspace/work/ping/PING测试1/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_bg1.png",
+        "source": "/home/rick/workspace/work/ping/PING测试1/app/src/main/res/drawable-hdpi/btn_bg1.png"
+    },
+    {
+        "merged": "/home/rick/workspace/work/ping/PING测试1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/rick/workspace/work/ping/PING测试1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

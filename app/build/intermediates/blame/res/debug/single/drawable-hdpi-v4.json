@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/rick/workspace/work/ping/PING测试1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_bg.xml",
+        "source": "/home/rick/workspace/work/ping/PING测试1/app/src/main/res/drawable-hdpi/btn_bg.xml"
+    },
+    {
+        "merged": "/home/rick/workspace/work/ping/PING测试1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_key_selector.xml",
+        "source": "/home/rick/workspace/work/ping/PING测试1/app/src/main/res/drawable-hdpi/bg_key_selector.xml"
+    }
+]

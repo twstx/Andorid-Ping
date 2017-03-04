@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="请输入网址"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/edit_ip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="app.guojiang.tv" />
+
+
+    <Button
+        android:id="@+id/btn_ping"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_key_selector"
+        android:text="开始PING" />
+    <TextView
+        android:id="@+id/tv_show"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+   
+</LinearLayout>

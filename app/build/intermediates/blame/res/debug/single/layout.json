@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/rick/workspace/work/ping/PING测试1/app/build/intermediates/res/merged/debug/layout/pingresult.xml",
+        "source": "/home/rick/workspace/work/ping/PING测试1/app/src/main/res/layout/pingresult.xml"
+    },
+    {
+        "merged": "/home/rick/workspace/work/ping/PING测试1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/rick/workspace/work/ping/PING测试1/app/src/main/res/layout/activity_main.xml"
+    }
+]
